@@ -38,10 +38,10 @@ function CardComponent(props: any) {
 
 const useStyles = makeStyles({
   root: {
-    maxWidth: 345,
+    maxWidth: 200,
   },
   media: {
-    height: 140,
+    height:120,
   },
 });
 
